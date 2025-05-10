@@ -1,6 +1,6 @@
 # **Dardo Diego Camaño**
 
-![Foto personal](fotoPF.png){: style="height:70px; width:70px; float: right; margin: 10px"}
+![Foto personal](fotoPF.png)
 
 ---
 
