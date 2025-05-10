@@ -1,6 +1,6 @@
 # **Dardo Diego Camaño**
 
-![Foto personal](https://drive.google.com/file/d/18wUi90MQ_6GRWqTAfY6ZfCqO69YTM9cl/view){: style="height:180px; width:150px; float: right; margin: 10px"}
+![Foto personal](fotoPF.png){: style="height:70px; width:70px; float: right; margin: 10px"}
 
 ---
 
@@ -23,4 +23,4 @@
 ---
 
 **Redes Sociales**  
-🔗 [LinkedIn](https://linkedin.com/usuario)  
+🔗 [GitHub](https://github.com/dardocam/)  
