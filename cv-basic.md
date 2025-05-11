@@ -13,12 +13,16 @@
 ---
 
 **Formación Académica**  
-- **Título Universitario: Tec Univ en Prog. y Adm. de Redes**
-- TUPAR - UNICEN - 2015  
-  [Analitico-Frente](facu-frente.jpg)  
-  [Analitico-Contrafrente](facu-contrafrente.jpg)  
-- TUDAI - UNICEN   
-  [Historia academica actualidad](ha.png)  
+- **TITULOS UNIVERSITARIOS:**
+- TUPAR - UNICEN - 2015
+  - [Analitico-Frente](facu-frente.jpg)
+  - [Analitico-Contrafrente](facu-contrafrente.jpg)
+- TRAMO PEDAGOGICO PARA TECNICOS PROFESIONALES - 2019
+  - [Analitico-Frente](tramo-frente.jpg)
+  - [Analitico-Contrafrente](tramo-contrafrente.jpg)
+ 
+- TUDAI - UNICEN - actualidad 
+  - [Historia academica actualidad](ha.png)  
 
 ---
 
