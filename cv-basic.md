@@ -9,6 +9,8 @@
 📍 **Nacionalidad:** Argentino  
 📧 **Email:** dardocam@gmail.com  
 📱 **Teléfono:** +54 2494 654530  
+📱 **Residencia:** Necochea  
+
 
 ---
 
