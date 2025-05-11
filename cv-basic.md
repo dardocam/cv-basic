@@ -15,8 +15,8 @@
 **Formación Académica**  
 - **TITULOS UNIVERSITARIOS:**
 - TUPAR - UNICEN - 2015
-  - [Analitico-Frente](tupar-1.jpg)
-  - [Analitico-Contrafrente](tupar-2.jpg)
+  - [Analitico-Frente](tupar-2.jpg)
+  - [Analitico-Contrafrente](tupar-1.jpg)
 - TRAMO PEDAGOGICO PARA TECNICOS PROFESIONALES - 2019
   - [Analitico-Frente](tramo-frente.jpg)
   - [Analitico-Contrafrente](tramo-contrafrente.jpg)
